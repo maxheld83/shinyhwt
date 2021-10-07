@@ -26,6 +26,6 @@ BugReports: https://github.com/maxheld83/shinyhwt/issues
 Suggests: 
     testthat (>= 3.0.0)
 Imports: 
-    shiny (>= 1.7.1),
-    htmlwidgets (>= 1.5.4)
+    shiny (>= 1.6),
+    htmlwidgets (>= 1.5)
 Config/testthat/edition: 3
