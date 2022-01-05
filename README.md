@@ -9,4 +9,4 @@
 
 Enables highlighting of text inside text inputs to improve the user experience.
 Highlights texts based on strings, regular expressions or R objects.
-Wraps the [highlighting-within-textinputs](https://github.com/lonekorean/highlight-within-textarea) javascript library for shiny.
+Wraps the [highlighting-within-textinputs](https://github.com/lonekorean/highlight-within-textarea) JavaScript library for shiny.
