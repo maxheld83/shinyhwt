@@ -25,7 +25,7 @@ jobs:
           path: ".github/library"
           key: ${{ job.container.image }}-${{ hashFiles('DESCRIPTION') }}
       - name: Install System Dependencies
-        run: muggle::install_sysdeps()
+        run: stop()
       - name: Install R Dependencies
         env:
           # see builder.Dockerfile for explanation, this resets after this step
